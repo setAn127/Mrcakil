@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # Auto Install Tools v.2.1
-# coded By Mr.Cakil 
+# coded By setAn127 
 # gausah ganti copyright kalo mau di hargai
 # Bersihkan Layar
 clear
@@ -26,7 +26,7 @@ echo ""
 echo -e $green"[#]> Terima kasih sudah make tools saya ... "
 sleep 1
 echo ""
-echo -e $white"[#]> Mr.Cakil Wuzz Here ... "
+echo -e $white"[#]> setAn127 Wuzz Here ... "
 read enter
 exit
 }
@@ -38,9 +38,9 @@ echo -e $white"        /_/  /_/_/ (_)___/\_,_/_/\_\/_/_/  "
 echo -e $red"         ***********************************************"
 echo -e $white"         # $red toolkit for hackers v2.1         $white               #"
 echo -e $red"         # $red happy fun guys                $red             #"
-echo -e $white"         # $red contact: mrcakil@programmer.net $white            #"
+echo -e $white"         # $red contact: setAn127@programmer.net $white            #"
 echo -e $red"         # $white greetz :99syndicate - Anonymous Cyber team $red#"
-echo -e $white"         # $white copyright : ./Mr Cakil     $white                #"
+echo -e $white"         # $white copyright : ./setAn127     $white                #"
 echo -e $red"         # $white thanks to : 4wsec - Mr.Tenwap $red             #"
 echo -e $white"         ***********************************************"
 echo ""
